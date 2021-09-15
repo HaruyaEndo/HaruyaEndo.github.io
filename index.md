@@ -14,9 +14,22 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+## 私のGitHubの公開ページです
 
+## 取得資格
 - Bulleted
 - List
+- 基本情報技術者
+- 応用情報技術者
+- ネットワークスペシャリスト
+
+##語学スキル
+ 
+- 英検２級
+
+##プロジェクト経験
+- 2010年7月〜Pythonによ画像認識システムの開発PG
+- 2013年2月〜PHPによる社内管理システムの改修　設計＆P
 
 1. Numbered
 2. List
