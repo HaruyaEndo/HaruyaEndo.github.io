@@ -1,4 +1,5 @@
-## Welcome to ENDO Pages
+## Welcome to Eiseigaku Pages
+以下テンプレート
 
 You can use the [editor on GitHub](https://github.com/HaruyaEndo/HaruyaEndo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
